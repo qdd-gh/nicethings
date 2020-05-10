@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pypi-static.iml" filepath="$PROJECT_DIR$/.idea/pypi-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nicethings/.idea/nicethings.iml" filepath="$PROJECT_DIR$/../nicethings/.idea/nicethings.iml" />
     </modules>
   </component>
 </project>

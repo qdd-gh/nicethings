@@ -3,10 +3,11 @@ from setuptools import setup, find_packages
 tests_require = [
     "pytest",
     "pytest-cov",
+    "pytest-datadir",
 ]
 
 setup(
-    name="pypi-static",
+    name="nicethings",
     version="0.1.0",
     packages=find_packages("src"),
     package_dir={"": "src"},

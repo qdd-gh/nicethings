@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'pypi-static'
+project = 'nicethings'
 copyright = '2020, qdd'
 author = 'qdd'
 
