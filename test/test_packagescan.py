@@ -8,4 +8,3 @@ def test_processes_html_for_list_of_distribution_names(shared_datadir):
 
     for distribution in distributions:
         assert "cryptography" in distribution.name.lower()
-
