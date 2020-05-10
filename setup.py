@@ -1,6 +1,7 @@
 from setuptools import setup, find_packages
 
 tests_require = [
+    "flake8",
     "pytest",
     "pytest-cov",
     "pytest-datadir",

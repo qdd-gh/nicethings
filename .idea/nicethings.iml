@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$/../nicethings">
       <sourceFolder url="file://$MODULE_DIR$/../nicethings/src/nicethings" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (nicethings-env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="ReSTService">
